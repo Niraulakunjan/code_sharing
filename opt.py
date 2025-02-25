@@ -1,4 +1,4 @@
-
+import docx
 import smtplib
 import random
 import string
